@@ -1,0 +1,13 @@
+.logo-main {
+    max-width: 200px!important;
+}
+
+.hover:hover {
+    cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    #Top_bar .logo #logo img {
+        max-height: 110px!important;
+    }
+}
