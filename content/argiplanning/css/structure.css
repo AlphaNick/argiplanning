@@ -4513,7 +4513,7 @@ html, body {
 		width: 100%;
 		left: 0;
 		top: -60px;
-		height: 60px;
+		height: 90px;
 		z-index: 701;
 		background: #fff;
 		opacity: .97;
@@ -4544,7 +4544,7 @@ html, body {
 		line-height: 50px;
 	}
 	#Top_bar.is-sticky #logo img {
-		max-height: 35px;
+		max-height: 70px;
 		width: auto !important;
 	}
 	#Top_bar.is-sticky #logo img.logo-main {
@@ -4560,7 +4560,7 @@ html, body {
 		padding: 15px 0;
 	}
 	#Top_bar.is-sticky .menu>li>a, #Top_bar.is-sticky .menu>li>a span {
-		line-height: 30px;
+	
 	}
 	#Top_bar.is-sticky .menu>li>a:after {
 		top: auto;
